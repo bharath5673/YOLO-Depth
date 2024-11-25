@@ -55,7 +55,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ### References
 
-* [Ultralytics YOLO](https://github.com/ultralytics/yolov5])
+* [Ultralytics YOLO](https://github.com/ultralytics)
 * [Intel MiDaS](https://github.com/isl-org/MiDaS)
 
 
