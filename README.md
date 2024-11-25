@@ -31,7 +31,7 @@ Ideal for robotics, ADAS, and surveillance applications, it provides an intuitiv
 2. Install the required dependencies
 
 ```bash
-pip3 install ultralytics 
+pip3 install ultralytics timm six
 ```
 
 ### Usage
