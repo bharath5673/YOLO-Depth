@@ -2,7 +2,7 @@
 
 This project integrates real-time object detection using YOLO models with depth estimation provided by Intel's MiDaS. 
 It enables detection and localization of objects in 3D space, enhancing understanding beyond traditional 2D bounding boxes. 
-Ideal for robotics, ADAS, and surveillance applications, it provides an intuitive top-down view of detected objects and their relative distances.
+Ideal for Robotics, ADAS, and surveillance applications, it provides an intuitive top-down view of detected objects and their relative distances.
 
 ![demo](output_video_depth_output_pip_.gif)
 
